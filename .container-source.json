@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "distribution": "ArchLinux",
+  "upstream": "https://github.com/archlinux/archlinux-docker.git",
+  "ref": "master",
+  "revision": "34b87485162b028c8d957bdcd2674359d883cd21"
+}
